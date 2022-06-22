@@ -100,7 +100,7 @@ fisher.test(table2)
 ```
 
 ```{r}
-fisherXY(mydata$cappun,mydata$race)
+fisherXY(mydata$cappun,mydata$race,printAll=TRUE)
 ```
  
 
