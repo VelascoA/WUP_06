@@ -79,13 +79,8 @@ colPerc(table2)
 
 The data shows the white race are 67% in favor of capital punishment than 32% that oppose it, and the other category is 55% more in favor than 44% where the black race is 53% opposed and 46% in favor of capital punishment. This shows white people are more in favor of capital punish than the other two categories.
 
-## Now with More data
 
-```{r}
-table2 <- xtabs(~race + cappun, data=mydata)
-rowPerc(table2)
-colPerc(table2)
-```
+
 
 
 ## Inferential Results
