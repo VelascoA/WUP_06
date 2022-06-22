@@ -77,14 +77,6 @@ colPerc(table1)
 The numerical data shows the white have a higher percentage than black that are in favor of capital punishment, and the other are more in favor than the black. Comparing white to other we can see that they are rather close with white at 68.23% and other at 68.75% in favor of capital punishment.
 
 
-## Now with less data
-
-```{r}
-table2 <- xtabs(~race + cappun, data=mydata)
-rowPerc(table2)
-colPerc(table2)
-```
-
 
 ## Inferential Results
 
@@ -96,11 +88,13 @@ colPerc(table2)
 ## Less data version
 
 ```{r}
-chisq.test(table2)
-chisqtestGC(table2)
-fisher.test(table2)
+chisq.test(table1)
+chisqtestGC(table1)
+fisher.test(table1)
 #fisherXY(mydata$race,mydata$cappun)
 ```
+
+
 ```{r}
 fisherXY = function(x, y, confL = 0, printAll=FALSE){
   # Inputs: 
