@@ -64,7 +64,7 @@ basicCC + geom_bar(stat="identity", position = "dodge")
 ```
 
 
-
+The data is showing the way different races view capital punishment.The percentage graph shows white people are way more in favor of capital punishment than any other race. The other category is also in favor of capital punishment than against it where as more black people are opposed to punishment than in favor of capital punishment. From this we can see the white and other race favor capital punishment.
 ### Numerical Descriptive Results
 
 <!--Numerical results go here. Use the numerical results to describe the patterns if any that exist in the data as focused toward the research question!-->
