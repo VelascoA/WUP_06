@@ -163,9 +163,10 @@ fisherXY = function(x, y, confL = 0, printAll=FALSE){
 ```
 
 ```{r}
-fisherXY(mydata$cappun,mydata$race)
+fisherXY(mydata$cappun,mydata$race,printAll = TRUE)
 ```
- 
+
+The only noticeable difference that can be seen is that white and black are different, as well as other and black are different. However white and other are not different. The p value being one shows there is no difference between white and other stance on capital punishment. 
 
 # Discussion and Conclusion
 
