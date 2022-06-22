@@ -74,6 +74,7 @@ rowPerc(table1)
 colPerc(table1)
 ```
 
+The numerical data shows the white have a higher percentage than black that are in favor of capital punishment, and the other are more in favor than the black. Comparing white to other we can see that they are rather close with white at 68.23% and other at 68.75% in favor of capital punishment.
 
 
 ## Now with less data
