@@ -102,7 +102,7 @@ fisher.test(table2)
 ```{r}
 fisherXY(mydata$cappun,mydata$race,printAll=TRUE)
 ```
- 
+ The Chi-square test doesn't tell us the difference between the different race categories because the p value is to small. Running the fisherXY test to compare the difference should help us see the diffrence between catgories better. 
 
 # Discussion and Conclusion
 
