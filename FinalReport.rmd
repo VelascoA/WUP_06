@@ -61,6 +61,7 @@ basicC + geom_bar(stat="identity",position="dodge")
 basicCC <- ggplot(dd2,aes(x=race,y=prcnt*100,fill=cappun)) 
 basicCC + geom_bar(stat="identity", position = "dodge")
 ```
+
 The data shows there are 300 white that are in favor of capital punishment, and that black are in favor and opposed to capital punishment about the same. The others are more in favor than against.
 
 
@@ -171,3 +172,5 @@ The only noticeable difference that can be seen is that white and black are diff
 # Discussion and Conclusion
 
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
+
+All the data given from the test done show white people are greatly in favor of capital punushment. 
