@@ -77,7 +77,7 @@ rowPerc(table2)
 colPerc(table2)
 ```
 
-The data shows the white race are 67% in favor of capital punishment than 32% that oppose it, and the other category is 55% more in favor than 44% where the black race is 53% opposed and 46% in favor of capital punishment. This shows white people are more in favor of capital punish than the other two categories.
+The data shows the white race are 67% in favor of capital punishment with 32% that oppose it, and the other category is 55% more in favor and 44% opposed. Where the black race is 53% opposed and 46% in favor of capital punishment. This shows white people are more in favor of capital punish than the other two categories.
 
 
 
@@ -85,7 +85,7 @@ The data shows the white race are 67% in favor of capital punishment than 32% th
 
 ## Inferential Results
 
-<!--State hypothesis clearly.  Make sure your discussion of the inferential test covers all the aspects that the test output produces, such as test statistic, p-value etc.  Make a decision about the null hypothesis, explain the assumptions on which the selected test/procedure was based, and why the chosen procedure satisfys the assumptions and is appropriate to answer the research question!-->
+<!--State hypothesis clearly.  Make sure your discussion of the inferential test covers all the aspects that the test output produces, such as test statistic, p-value etc.  Make a decision about the null hypothesis, explain the assumptions on which the selected test/procedure was based, and why the chosen procedure satisfy the assumptions and is appropriate to answer the research question!-->
 
 `
 
@@ -107,7 +107,7 @@ fisherXY(mydata$cappun,mydata$race,printAll=TRUE)
 
 # Discussion and Conclusion
 
-<!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
+<!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variables causes the other, or whether they perhaps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
 
 
-All the data given from the test done show white people are greatly in favor of capital punishment as well as the other category, where as the black category is opposed. Numerical data shows the white category has a higher percentage than the black category that are in favor of capital punishment, and other is more in favor of punishment than black. Comparing white to other we can see that they are close with white at 68.23% and other at 68.75% in favor of capital punishment, a fraction of a whole number. The only significance difference between all categories is between white and black. The p value being one shows that other and white have the same stance about capital punishment. According to the different data shown through out, it can be seen that the white and other category agree with capital punishment where the black category is greatly opposed to the idea of capital punishment.
+The study was to see which races are more in favor of capital punishment compared to others. All the data given from the test done show white people are greatly in favor of capital punishment as well as the other category, where as the black category is more opposed than in favor. Numerical data shows the white category has a percentage of 67% in favor and 32% opposed, the black category that are in favor of capital punishment is only 46% with 53% opposed, and other is more in favor of punishment than black with 55% in favor and only 44% opposed. Comparing white to other we can see that they are close with white at 68.23% and other at 68.75% in favor of capital punishment,a fraction of a whole number. The only significance difference between all categories is between white and black. The p value being one shows that other and white have the same stance about capital punishment. According to the different data shown through out, it can be seen that the white and other category agree with capital punishment where the black category is greatly opposed to the idea of capital punishment.
